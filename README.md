@@ -1,4 +1,5 @@
-# evaluacion2
+# Evaluacion2
 
 Aplicación en flutter que me permita la integración con una aplicación web Django y de base de datos Sqlite3
 
+https://github.com/LEnriqueAllcca/Flutter_ProyectoE2 -----------> FLUTTER
